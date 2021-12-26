@@ -1,10 +1,5 @@
-.nav {
-    margin: 0 16.25%;
-}
 .logo {
     padding: 17px 36px;
-    border-right: 1px solid #C4C4C4;
-    border-left: 1px solid #C4C4C4;
 }
 .nav-links {
     list-style: none;
@@ -14,41 +9,26 @@
     margin: 0;
 }
 .phone {
-    text-decoration: none;
     font-size: 16px;
     line-height: 19px;
 }
-.link-our-salons{
-    border-left: 1px solid #C4C4C4;
+.salons{
+    padding: 30px 24px;
 }
 .link-our-salon {
     margin: 6px 15px 5px 0;
     font-size: 16px;
     line-height: 19px;
 }
-.link-impaired {
-    border-left: 1px solid #C4C4C4;
-    border-right: 1px solid #C4C4C4;
-}
 .impaired-wrapper {
     padding: 0 15px;
     margin: 23px 30px;
-    border-right: 1px solid #C4C4C4;
 }
 .visually-impaired {
     margin-left: 11px;
     font-size: 14px;
     line-height: 16px;
     text-transform: uppercase;
-}
-.link {
-    padding: 30px 2.56%;
-}
-.linkImage{
-    border-right: 1px solid #C4C4C4;
-}
-.cosmetology {
-    padding: 0 16.25%;
 }
 .procedures-list{
     max-width: 1295px;
@@ -58,7 +38,6 @@
     justify-content: space-between;
 }
 .procedure-link{
-    text-decoration: none;
     font-size: 18px;
     line-height: 150%;
 }
@@ -69,7 +48,6 @@
     background-color: white;
 }
 .cosmetology-header{
-    font-weight: bold;
     font-size: 48px;
     line-height: 150%;
     margin: 133px 0 20px 0;
@@ -83,7 +61,6 @@
     justify-content: center;
     align-items: center;
     padding: 15px 25px 14px;
-    text-decoration: none;
     font-size: 18px;
     line-height: 21px;
     letter-spacing: 0.05em;
@@ -137,13 +114,11 @@
     margin: 25px 0 40px 40px;
 }
 .innovationBtnTwo{
-    font-weight: bold;
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.05em;
     text-transform: uppercase;
     margin-left: 20px;
-    text-decoration: none;
 }
 .numbers{
     margin: 35px 0 0 134px;
@@ -176,7 +151,6 @@
     font-size: 18px;
     line-height: 21px;
     padding: 9px 15px 10px;
-    text-decoration: none;
 }
 .uniquePatent{
     align-items: center;
@@ -193,11 +167,9 @@
     margin: 0 176px 0 30px;
     font-size: 28px;
     line-height: 150%;
-    z-index: 2;
 }
 .newsAndRecommends{
     margin: 80px 0 100px 0 ;
-    padding: 0 16.25%;
 }
 .news{
     max-width: 526px;
@@ -206,7 +178,6 @@
 .newsBtn{
     font-size: 18px;
     line-height: 21px;
-    text-decoration: none;
     padding: 9px 15px 10px;
     margin: 30px 40px;
 }
@@ -224,7 +195,6 @@
     padding: 35px 60px 78px 60px;
 }
 .recommendHeader{
-    font-weight: bold;
     font-size: 24px;
     line-height: 150%;
 }
@@ -238,7 +208,6 @@
 }
 .actualProp {
     margin: 0;
-    font-weight: bold;
     font-size: 48px;
     line-height: 150%;
     color: #00868A;
@@ -270,7 +239,6 @@
     background-image: url("../img/propositionBackImg4.png");
 }
 .propositionLink{
-    text-decoration: none;
     font-size: 18px;
     line-height: 21px;
     padding: 9px 15px 10px 15px;
@@ -280,10 +248,6 @@
     font-size: 21px;
     line-height: 150%;
     margin: 25px 15px 25px 30px;
-    font-weight: bold;
-}
-.services{
-    padding: 0 16.25%;
 }
 .servicesList{
     padding-left: 0;
@@ -307,7 +271,6 @@
 .contactPhone{
     font-size: 21px;
     line-height: 150%;
-    text-decoration: none;
 }
 .contactMargin{
     margin-top: 20px;
@@ -331,7 +294,6 @@
     line-height: 16px;
     letter-spacing: 0.05em;
     text-transform: uppercase;
-    text-decoration: none;
 }
 .contactHeader{
     margin-bottom: 50px;
@@ -351,20 +313,12 @@
     line-height: 150%;
     max-width: 370px;
     padding: 20px 35px 16px 25px;
-    border-left: 1px solid #C4C4C4;
 }
 .footerLink{
     font-size: 12px;
     line-height: 150%;
-    border-left: 1px solid #C4C4C4;
-    padding: 38px 45px 34px 40px;
-}
-.footerBtn{
-    border-left: 1px solid #C4C4C4;
+    padding: 38px 44px 34px 40px;
 }
 .footerImg{
-    padding: 30.82px 28px 30.81px 28px;
-}
-.footerImg:last-child{
-    border-right: 1px solid #C4C4C4;
+    padding: 30.82px 27.5px 30.81px 28px;
 }

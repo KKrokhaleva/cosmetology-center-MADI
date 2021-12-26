@@ -18,6 +18,12 @@ body {
 .backgroundColorNavyBlue{
   background-color: #00868A;
 }
+.borderRight{
+    border-right: 1px solid #C4C4C4;
+}
+.borderLeft{
+    border-left: 1px solid #C4C4C4;
+}
 .backgroundColorBlue{
     background-color: #4FBFA5;
 }
@@ -26,4 +32,10 @@ body {
 }
 .w700{
     font-weight: 700;
+}
+.padding{
+    padding: 0 16.25%;
+}
+.textDecor{
+    text-decoration: none;
 }
